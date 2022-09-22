@@ -5,3 +5,5 @@ I have published two notebooks as part of the capstone projects assigned to us i
 back to these case studies to further improve my analysis as I learn more about data analytics and statistics! 
 
 With that being said, I will be doing several exploratory data analysis (EDA) on data sets of my interests with Python! Stay tuned! :)
+
+## Tabelau Viz / Dashboard: https://public.tableau.com/app/profile/michael8373/viz/BellabeatTrackerCaseStudy/totalstepsvscaloriesburned?publish=yes
